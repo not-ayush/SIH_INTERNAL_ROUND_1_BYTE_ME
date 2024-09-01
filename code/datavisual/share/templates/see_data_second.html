@@ -1,0 +1,5 @@
+{% extends "layoutthird.html" %}
+{% block linkshared %}{{share_instance.link}}{% endblock linkshared %}
+
+{% block uname %}{{share_instance.user.username}}{% endblock uname %}
+{% block description %}{{share_instance.text}}{% endblock description %}

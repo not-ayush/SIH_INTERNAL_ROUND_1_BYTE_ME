@@ -1,0 +1,13 @@
+{% extends "layoutsecond.html" %}
+
+{% block display %}
+{{share_instance.user.username}}
+{{share_instance.link}}
+
+{% endblock display %}
+
+{% block linkshared %}{{share_instance.link}}{% endblock linkshared %}
+{% block uname %}{{share_instance.user.username}}{% endblock uname %}
+{% block linksharedsecond %}{{share_instance.link}}{% endblock linksharedsecond %}
+{% block description %}{{share_instance.text}}{% endblock description %}
+

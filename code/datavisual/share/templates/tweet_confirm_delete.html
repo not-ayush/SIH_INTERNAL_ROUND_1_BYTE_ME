@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Share
+{% endblock %}
+
+{% block content %}
+<h1 class="text-center  mt-4">Are shour want to delete the data?</h1>
+<form method="post">
+    {% csrf_token %}
+    <button class="btn btn-danger">Delete</button>
+    <a class="btn btn-success" href="{% url 'share_list'%}">Cancel</a>
+</form>
+
+{% endblock %}
