@@ -19,9 +19,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **Internal Presentation:** [Internal Presentation](https://github.com/not-ayush/SIH_INTERNAL_ROUND_1_BYTE_ME/blob/master/files/Internal_PPT_BYTE_ME.pdf)
+- **Final SIH Presentation:** [Final SIH Presentation](https://github.com/not-ayush/SIH_INTERNAL_ROUND_1_BYTE_ME/blob/master/files/SIH_PPT_BYTE_ME.pdf)
+- **Video Demonstration:** [Watch Video](https://youtu.be/CnKTaCyiNhE)
+- **Source Code:** [GitHub Repository](https://github.com/not-ayush/SIH_INTERNAL_ROUND_1_BYTE_ME)

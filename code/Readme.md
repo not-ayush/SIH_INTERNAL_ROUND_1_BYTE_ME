@@ -31,18 +31,18 @@ Use the command mentioned for your OS on each step (if applicable).
 
 1. **Clone the Repository**
     ```bash
-    git clone GITHUB_LINK_TO_THE_REPO
-    cd REPO_DIRECTORY
+    git clone https://github.com/not-ayush/SIH_INTERNAL_ROUND_1_BYTE_ME
+    cd SIH_INTERNAL_ROUND_1_BYTE_ME
     ```
 2. **Initialize the virtual environment**
     Windows:
     ```bash
-    cd REPO_DIRECTORY/code
+    cd SIH_INTERNAL_ROUND_1_BYTE_ME/code
     python -m venv env_name
     ```
     Mac:
     ```bash
-    cd REPO_DIRECTORY\code
+    cd SIH_INTERNAL_ROUND_1_BYTE_ME\code
     python -m venv env_name
     ```
 
@@ -56,7 +56,6 @@ Use the command mentioned for your OS on each step (if applicable).
     source env_name/bin/activate
     ```
 
-   
 4. **Install Django**
     ```bash
     pip install django
@@ -67,5 +66,5 @@ Use the command mentioned for your OS on each step (if applicable).
     cd datavisual
     python manage.py runserver
     ```
-Now the server should be running the web app on http://127.0.0.1:8000/ .
+Now the web app should be running on http://127.0.0.1:8000/ .
 
